@@ -12,7 +12,9 @@ What the CAN Jammer can do:<br>
 
 >The STM32F405RG version is more or less the same Firmware as the [CAN_Jammer_STM32F105C8](https://github.com/karlyamashita/CAN_Jammer_STM32F105RB) version except that this Firmware has 2 more LED's to control.
 
-`USBCAN`
+<img width="1024" height="609" alt="Image" src="https://github.com/user-attachments/assets/9419c315-3baa-4cbc-ba5d-8452d9d5ef27" />
+
+### USBCAN
 Here is the image of the PCAN clone that is floating around on Aliexpress
 
 <img width="2048" height="1368" alt="Image" src="https://github.com/user-attachments/assets/08322bde-015f-488e-a1a6-e60ca0565f6e" />
