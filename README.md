@@ -15,7 +15,7 @@ What the CAN Jammer can do:<br>
 <img width="1024" height="609" alt="Image" src="https://github.com/user-attachments/assets/9419c315-3baa-4cbc-ba5d-8452d9d5ef27" />
 
 ### USBCAN
-Here is the image of the PCAN clone that is floating around on Aliexpress
+Here is the image of the [PCAN dual open source](https://www.aliexpress.us/w/wholesale-pcan-dual-open-source.html) clone that is being sold on Aliexpress. They do have the same PCB with a Chinese brand microcontroller. But for this project, I am using the STM32F4 version. 
 
 <img width="2048" height="1368" alt="Image" src="https://github.com/user-attachments/assets/08322bde-015f-488e-a1a6-e60ca0565f6e" />
 
