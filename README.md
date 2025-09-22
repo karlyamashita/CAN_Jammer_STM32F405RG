@@ -22,6 +22,3 @@ Here is the image of the [PCAN dual open source](https://www.aliexpress.us/item/
 ### Documentation
 More information can be found on the Wiki https://github.com/karlyamashita/CAN_Jammer_STM32F405RG/wiki
 
-
-
-https://www.aliexpress.us/item/3256808451647147.html
