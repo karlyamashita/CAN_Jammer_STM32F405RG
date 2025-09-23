@@ -10,8 +10,6 @@ What the CAN Jammer can do:<br>
 * You can override certain bytes with hardcoded bytes.
 * You can send CAN messages to either CAN1 or CAN2 side, isolated from the opposite side.
 
->The STM32F405RG version is more or less the same Firmware as the [CAN_Jammer_STM32F105C8](https://github.com/karlyamashita/CAN_Jammer_STM32F105RB) version except that this Firmware has 2 more LED's to control.
-
 <img width="1024" height="609" alt="Image" src="https://github.com/user-attachments/assets/9419c315-3baa-4cbc-ba5d-8452d9d5ef27" />
 
 ### USBCAN
