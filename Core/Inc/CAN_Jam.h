@@ -23,7 +23,7 @@
 #define INC_CAN_JAM_H_
 
 
-#define CAN_JAM_SIZE 8 // how many filters to create
+#define CAN_JAM_SIZE 32 // how many filters to create
 
 enum
 {
